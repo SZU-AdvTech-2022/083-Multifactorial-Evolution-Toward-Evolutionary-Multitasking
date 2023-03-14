@@ -1,0 +1,9 @@
+@article{REPO-084,
+    author = "Gupta, Abhishek and Ong, Yew-Soon and Feng, Liang",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "3",
+    pages = "343-357",
+    title = "{Multifactorial Evolution: Toward Evolutionary Multitasking}",
+    volume = "20",
+    year = "2016"
+}
